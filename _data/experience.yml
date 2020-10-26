@@ -16,7 +16,7 @@
   team: Drivers (Swift Driver)
   image: ./assets/images/ufl.png
   description: Developed a web app for managing research and patient data. This project also involved developing a pure vanilla javascript UI library.
-  tech_used: Vanilla Javascript (~70%), HTML & CSS (~30)
+  tech_used: Vanilla Javascript (~70%), HTML & CSS (~30%)
 
 - title: Software Engineer Intern
   company: MongoDB
