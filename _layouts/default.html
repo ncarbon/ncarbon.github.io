@@ -1,0 +1,20 @@
+<!doctype html>
+  <html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/3789976aa6.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <div id="main-container">
+      <div id="content-wrap">
+        {% include navigation.html %}
+          {{ content }}
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+<div id="footer">
+    <div class="icon-row text-center">
+        {% for item in site.data.links %}
+            <a href="{{item.link}}" target="_blank" class="no-underline no-underline-hover">
+                <i class="fab fa-{{item.name}} icon"></i>
+            </a>
+        {% endfor %}
+    </div>
+    
+</div>

@@ -1,0 +1,7 @@
+- name: github
+  img_url: ./assets/images/github-icon.svg
+
+  link: https://github.com/ncarbon
+- name: linkedin
+  img_url: ./assets/images/linkedin-icon.png
+  link: https://linkedin.com/in/ncarbon

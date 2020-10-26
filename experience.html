@@ -1,0 +1,22 @@
+---
+title: Experience
+---
+<br>
+
+<h3 class="title">Experience</h3>
+{% for exp in site.data.experience %}
+<div class="left inline-block exp-text">
+    <h4>{{ exp.title }}</h4>
+    <p>
+        <a class="link" target="_blank" href="{{ exp.url }}">{{ exp.company }}</a>
+        
+    </p>
+    <p>{{ exp.description | markdownify }}</p>
+    <p>{{ exp.tech_used }}</p>
+</div>
+<div class="right inline-block exp-img">
+    <img class="exp-logo" src="{{exp.image}}" >
+    <p>{{ exp.dates }}</p>
+</div>
+
+{% endfor %}

@@ -1,0 +1,14 @@
+sass:
+    sass_dir: ./assets/css
+defaults:
+  - scope:
+      path: ""
+      type: "experience"
+    values:
+      layout: "experience"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+paginate: 5

@@ -1,0 +1,40 @@
+- title: Software Engineer - New Grad
+  company: MongoDB
+  url: https://www.mongodb.com
+  location: New York, New York
+  dates: Aug 2020 - Present
+  team: Various Teams
+  image: ./assets/images/mongodb.png
+  description: I loved my experience as an intern so much that I decided to go back and join Mongo as a new grad. I'm currently doing their new grad rotational program.
+  tech_used: Javascript, Typescript, React, Go, Swift
+
+- title: Software Developer
+  company: University of Florida
+  url: https://www.ufl.edu
+  location: Gainesville, FL
+  dates: Sept 2019 - June 2020 (9 months)
+  team: Drivers (Swift Driver)
+  image: ./assets/images/ufl.png
+  description: Developed a web app for managing research and patient data. This project also involved developing a pure vanilla javascript UI library.
+  tech_used: Vanilla Javascript (~70%), HTML & CSS (~30)
+
+- title: Software Engineer Intern
+  company: MongoDB
+  url: https://www.mongodb.com
+  location: New York, New York
+  dates: May - Aug 2020 (11 weeks)
+  team: Drivers (Swift Driver)
+  image: ./assets/images/mongodb.png
+  description: Implemented the api for using [Change Streams](https://docs.mongodb.com/manual/changeStreams) on the Swift Driver
+  tech_used: Swift (~90%), MongoDB (~10%)
+
+- title: Software Engineer Intern
+  company: Ancestry
+  location: Lehi, Utah
+  url: https://www.ancestry.com
+  dates: May - Aug 2018 (14 weeks)
+  team: Search UI
+  image: ./assets/images/ancestry.svg
+  description: Migrated part of Ancestry Search pages from a .NET monolithic to Node.js micro-services
+  tech_used: Nodejs (Javascript) (~75%), Dust.js (~20%), C# & .NET (~5%)
+
