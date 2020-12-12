@@ -15,6 +15,10 @@ html {
     padding-bottom: 2.5rem;
 }
 
+#content {
+    margin-top: 50px;
+}
+
 #footer {
     margin-top: 25px;
     width: 100%;
@@ -155,7 +159,17 @@ a:hover {
     border-radius: 50%;
 }
 
+.centered {
+    width: 50%;
+    margin: auto;
+}
+
 .half-width-centered {
     width: 50%;
+    margin: auto;
+}
+
+.twothirds-width-centered {
+    width: 76%;
     margin: auto;
 }
